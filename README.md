@@ -1,2 +1,4 @@
 # public-CEengine
-Public ver
+
+to build: ctr + shift + b
+open: alt + f5
